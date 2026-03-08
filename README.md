@@ -1,6 +1,13 @@
 📊 Project: Party Planning & Sales Performance Analysis
 Project Overview
 The project consists of two parts: comprehensive analysis and planning of a large event (300+ guests) and analysis of the company's sales performance (Northwind) using SQL. The main goal is to transform raw data into understandable insights for cost optimization and performance evaluation.
+____________________________________________________________________________________________________________________________
+
+https://dub01.online.tableau.com/t/antares111182-70e819faf3/views/Party_Dasboard/PartyPlanningGuestAnalysisDashboard/9b825dcd-2cd4-4260-8e71-429fb2d89edd/65745106-23cd-4833-914f-e3fbad2e1b65
+
+____________________________________________________________________________________________________________________________
+
+
 
 What work did I do:
 Infrastructure and ETL:
